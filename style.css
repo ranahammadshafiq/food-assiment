@@ -1,0 +1,38 @@
+#Menu{
+	text-align: center;
+	padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+
+	
+}
+
+#Menu ul a{
+	padding: 0 30px;
+	color: black;
+}
+.button{
+	background: red;
+	color: white;
+	border: 4px solid red;
+}
+#head{
+	text-align: center;
+	color: red;
+    padding: 20px 20px;
+	font-family: 'Oswald', sans-serif;
+  
+
+	font-size: 500px;
+
+}
+#img{
+	display: flex;
+}
+.text{
+	padding-top: 5px;
+	padding-left: 40px;
+	
+}
+#items{
+	padding: 0 0 80px 80px;
+}
